@@ -1,0 +1,25 @@
+header{
+    height: 50px;
+}
+footer{
+    height: 50px;
+    background-color: rgb(244, 245, 204);
+}
+main{
+    height: calc(100vh - 100px);
+    background-color: aquamarine;
+}
+
+.grid-container{
+    width: 70vw;
+    height: 70vh;
+    border: 2px solid black;
+    margin: 3rem auto;
+}
+
+.box{
+    border: 2px solid saddlebrown;
+    width: calc(100% / 10);
+    height: calc(100% / 10);
+    color: bisque; 
+}
