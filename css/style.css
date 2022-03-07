@@ -19,7 +19,5 @@ main{
 
 .box{
     border: 2px solid saddlebrown;
-    width: calc(100% / 10);
-    height: calc(100% / 10);
     color: bisque; 
 }
