@@ -16,7 +16,7 @@ main{
     border: 2px solid black;
     margin: 3rem auto;
 }
-#my-wrapper .box.clicked{
+#my-wrapper .box.clicked-bomb{
     background-color: red;
 }
 #my-wrapper .box.clicked{
