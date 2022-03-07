@@ -4,7 +4,6 @@ const scelta = document.getElementById('difficolta');
 let sceltaUtente = scelta.value;
 let nBox = 0;
 
-
 button.addEventListener('click', function(){
     if ( scelta.value == 'easy'){
         nBox=100;   
@@ -29,3 +28,7 @@ button.addEventListener('click', function(){
         wrapper.append(newDiv);
     }
 })
+
+
+
+
